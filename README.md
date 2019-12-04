@@ -1,3 +1,5 @@
+<iframe width="640" height="360" src="https://youtu.be/vDCErBQ-4nA" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
 # linux
 [windows ubuntu linux 설치](https://archwin.net/400)
 * 윈도우 설정을 바꾼다.
