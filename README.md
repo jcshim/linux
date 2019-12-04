@@ -1,5 +1,5 @@
 # linux
-windows ubuntu linux 설치
+[windows ubuntu linux 설치](https://archwin.net/400)
 * 윈도우 설정을 바꾼다.
 * 윈도우스토어: ubuntu를 설치한다.
   * userID: comeng
